@@ -8,7 +8,7 @@ I'm a creative developer, entrepreneur, and content creator, currently just work
 
 **Programming:**
 
-- **HTML**, **CSS**, **SASS**, **Javasciprt**, **React** & **NodeJS**
+- **HTML**, **CSS**, **SASS**, **Javascript**, **React** & **NodeJS**
 
 **System Admin:**
 
