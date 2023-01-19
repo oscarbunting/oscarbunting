@@ -16,7 +16,7 @@ I'm a creative developer, entrepreneur, and content creator, currently just work
 
 **Creative Media:**
 
--  **Video Production ( Including audio, video, blocking & on-set VFX preparation,** **Video Editing (Premier Pro, Final Cut, Davinci Resolve)**,
+-  **Video Production ( Including audio, video, blocking & on-set VFX preparation,** **Video Editing (Premier Pro, Final Cut, Davinci Resolve)**, and more.
 
 ### A Bit More About Me:
 
