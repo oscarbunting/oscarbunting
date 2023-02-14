@@ -2,7 +2,7 @@
 
 👋 Hi, **I’m Oscar**, pleasure to meet you!
 
-I'm a creative developer, entrepreneur, and content creator, currently just working on passion projects and learning opportunities.
+I'm a creative developer, entrepreneur, and content creator, currently working on passion projects and fleshing out my software development skills.
 
 ### Skills Include:
 
@@ -13,10 +13,6 @@ I'm a creative developer, entrepreneur, and content creator, currently just work
 **System Admin:**
 
 - Familiar with **Ubuntu** & **Linux**, **CloudFlare**, **DigitalOcean**, **Vercel**, **MYSQL** & **MongoDB**
-
-**Creative Media:**
-
--  **Video Production ( Including audio, video, blocking & on-set VFX preparation,** **Video Editing (Premier Pro, Final Cut, Davinci Resolve)**, and more.
 
 ### A Bit More About Me:
 
