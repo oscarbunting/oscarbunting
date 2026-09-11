@@ -7,5 +7,5 @@ I'm a creative developer, entrepreneur, and content creator, currently working o
 ### A Bit More About Me:
 
 - 👀 I’m interested in computers, video production, aviation
-- 🌱 I’m currently busy building many (hopefully) useful apps. Check Tham out on my site linked below.
+- 🌱 I’m currently busy building many (hopefully) useful apps. Check them out on my site.
 - 📫 Get in touch at my website, [OJB MEDIA](https://ojb.media/)
